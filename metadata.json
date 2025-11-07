@@ -1,0 +1,5 @@
+{
+  "name": "Document Signature Portal",
+  "description": "A web application to create, send, and manage document signature requests. Users can upload documents, add signers, and track the status of each request. Signers can view and sign documents through a unique link.",
+  "requestFramePermissions": []
+}
